@@ -1,0 +1,36 @@
+/*
+ * main.c
+ *
+ *  Created on: Jan 4, 2023
+ *      Author: ahmed khttab
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	int num1,num2;
+	printf("enter the first number = ");
+	fflush(stdin);
+	fflush(stdout);
+	scanf("%d",&num1);
+	printf("enter the second number = ");
+	fflush(stdin);
+	fflush(stdout);
+	scanf("%d",&num2);
+	primenum(num1,num2);
+
+}
+
+void primenum(int num1 , int num2)
+{
+	int x;
+	for(x=0;num1<=num2;num1++)
+	{
+	if(num1%2 !=0)
+	{
+		printf("the prime number is = %d\n ",num1);
+	}
+	}
+
+}

@@ -1,0 +1,11 @@
+17:53:28 **** Incremental Build of configuration Debug for project task3-break ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:33:1: error: expected ';' before '}' token
+ }
+ ^
+..\main.c:33:1: error: expected declaration or statement at end of input
+
+17:53:29 Build Finished (took 241ms)
+

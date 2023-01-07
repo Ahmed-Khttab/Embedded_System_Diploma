@@ -1,0 +1,6 @@
+16:48:00 **** Incremental Build of configuration Debug for project task1-break ****
+Info: Internal Builder is used for build
+gcc -o task1-break.exe main.o 
+
+16:48:01 Build Finished (took 467ms)
+

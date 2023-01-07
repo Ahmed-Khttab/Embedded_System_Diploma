@@ -1,0 +1,175 @@
+11:54:49 **** Rebuild of configuration Debug for project power number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "power number.exe" main.o 
+Info: Nothing to build for power number
+Info: Nothing to build for power number
+12:09:56 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+12:41:53 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+13:32:25 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:17:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d",c);
+          ^
+..\main.c:17:2: warning: 'c' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d",c);
+  ^~~~~~~~~~~~~
+gcc -o "reverse sentence.exe" main.o 
+13:33:11 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+Info: Nothing to build for reverse sentence
+13:46:50 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:17:7: warning: passing argument 1 of 'gets' makes pointer from integer without a cast [-Wint-conversion]
+  gets(c);
+       ^
+In file included from ..\main.c:9:0:
+c:\mingw\include\stdio.h:676:41: note: expected 'char *' but argument is of type 'char'
+ _CRTIMP __cdecl __MINGW_NOTHROW  char * gets (char *);
+                                         ^~~~
+..\main.c:17:2: warning: 'c' is used uninitialized in this function [-Wuninitialized]
+  gets(c);
+  ^~~~~~~
+gcc -o "reverse sentence.exe" main.o 
+13:54:12 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:19:30: warning: format '%c' expects argument of type 'int', but argument 2 has type 'char *' [-Wformat=]
+  printf("enter the sentec = %c",c);
+                              ^
+gcc -o "reverse sentence.exe" main.o 
+16:40:55 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:19:30: warning: format '%c' expects argument of type 'int', but argument 2 has type 'char *' [-Wformat=]
+  printf("enter the sentec = %c",c);
+                              ^
+gcc -o "reverse sentence.exe" main.o 
+16:41:22 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+16:46:57 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+16:56:49 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:20:32: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("enter the sentec === %s",c[5]);
+                                ^
+gcc -o "reverse sentence.exe" main.o 
+16:57:20 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+17:45:18 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:22:2: warning: statement with no effect [-Wunused-value]
+  strlen(c);
+  ^~~~~~~~~
+..\main.c:15:7: warning: unused variable 'c2' [-Wunused-variable]
+  char c2[100];
+       ^~
+gcc -o "reverse sentence.exe" main.o 
+17:46:12 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:15:7: warning: unused variable 'c2' [-Wunused-variable]
+  char c2[100];
+       ^~
+gcc -o "reverse sentence.exe" main.o 
+18:31:57 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:15:7: warning: unused variable 'c2' [-Wunused-variable]
+  char c2[100];
+       ^~
+gcc -o "reverse sentence.exe" main.o 
+18:46:11 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:15:7: warning: unused variable 'c2' [-Wunused-variable]
+  char c2[100];
+       ^~
+gcc -o "reverse sentence.exe" main.o 
+18:46:53 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:15:7: warning: unused variable 'c2' [-Wunused-variable]
+  char c2[100];
+       ^~
+gcc -o "reverse sentence.exe" main.o 
+19:30:28 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+19:53:57 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+20:01:18 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+20:03:44 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+20:07:12 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+20:29:28 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+20:54:13 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:23:2: warning: implicit declaration of function 'revers' [-Wimplicit-function-declaration]
+  revers(c[100],y);
+  ^~~~~~
+..\main.c: At top level:
+..\main.c:25:6: warning: conflicting types for 'revers'
+ void revers(char c[100] , int y)
+      ^~~~~~
+..\main.c:23:2: note: previous implicit declaration of 'revers' was here
+  revers(c[100],y);
+  ^~~~~~
+gcc -o "reverse sentence.exe" main.o 
+21:06:10 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+21:13:31 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 
+21:14:08 **** Incremental Build of configuration Debug for project reverse sentence ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse sentence.exe" main.o 

@@ -1,0 +1,13 @@
+20:23:05 **** Rebuild of configuration Debug for project task2-continu ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:13:3: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+   printf("%d\n",i);
+   ^~~~~~
+..\main.c:13:3: warning: incompatible implicit declaration of built-in function 'printf'
+..\main.c:13:3: note: include '<stdio.h>' or provide a declaration of 'printf'
+gcc -o task2-continu.exe main.o 
+
+20:23:06 Build Finished (took 845ms)
+
