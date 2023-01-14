@@ -1,0 +1,6 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:prime number.exe,org.eclipse.launchbar.core.descriptorType.default\:factorial of number.exe,org.eclipse.launchbar.core.descriptorType.default\:power number.exe,org.eclipse.launchbar.core.descriptorType.default\:reverse sentence.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:prime\ number.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:prime\ number.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

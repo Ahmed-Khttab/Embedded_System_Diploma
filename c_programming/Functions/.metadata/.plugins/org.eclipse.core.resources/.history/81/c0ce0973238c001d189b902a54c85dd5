@@ -1,0 +1,20 @@
+/*
+ * main.c
+ *
+ *  Created on: Jan 4, 2023
+ *      Author: ahmed khttab
+ */
+
+
+#include <stdio.h>
+
+int main()
+{
+	char list[100];
+	printf("enter the first number = ");
+	fflush(stdin);
+	fflush(stdout);
+	gets(list);
+	printf("enter the sentec = %c",list[5]);
+
+}

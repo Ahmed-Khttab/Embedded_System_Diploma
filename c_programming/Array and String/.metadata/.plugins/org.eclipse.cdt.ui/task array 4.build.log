@@ -1,0 +1,7 @@
+21:57:48 **** Incremental Build of configuration Debug for project task array 4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "task array 4.exe" main.o 
+
+21:57:49 Build Finished (took 794ms)
+

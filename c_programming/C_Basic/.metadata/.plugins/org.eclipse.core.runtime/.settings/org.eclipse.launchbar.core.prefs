@@ -1,0 +1,6 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:task8.exe,org.eclipse.launchbar.core.descriptorType.default\:task1.exe,org.eclipse.launchbar.core.descriptorType.default\:task2.exe,org.eclipse.launchbar.core.descriptorType.default\:task3.exe,org.eclipse.launchbar.core.descriptorType.default\:task4.exe,org.eclipse.launchbar.core.descriptorType.default\:task5.exe,org.eclipse.launchbar.core.descriptorType.default\:task6.exe,org.eclipse.launchbar.core.descriptorType.default\:task9.exe,org.eclipse.launchbar.core.descriptorType.default\:task10.exe,org.eclipse.launchbar.core.descriptorType.default\:task11.exe,org.eclipse.launchbar.core.descriptorType.default\:task13.exe,org.eclipse.launchbar.core.descriptorType.default\:task14.exe,org.eclipse.launchbar.core.descriptorType.default\:task15.exe,org.eclipse.launchbar.core.descriptorType.default\:task12.exe,org.eclipse.launchbar.core.descriptorType.default\:task12-.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:task1.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:task1.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

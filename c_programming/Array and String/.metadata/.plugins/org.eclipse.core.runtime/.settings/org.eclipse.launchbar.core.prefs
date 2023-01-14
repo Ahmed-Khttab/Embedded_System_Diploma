@@ -1,0 +1,8 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:task2-continu.exe,org.eclipse.launchbar.core.descriptorType.default\:test.exe,org.eclipse.launchbar.core.descriptorType.default\:task1-break.exe,org.eclipse.launchbar.core.descriptorType.default\:task2-berak.exe,org.eclipse.launchbar.core.descriptorType.default\:task4.exe,org.eclipse.launchbar.core.descriptorType.default\:task1-continue.exe,org.eclipse.launchbar.core.descriptorType.default\:task2-continue.exe,org.eclipse.launchbar.core.descriptorType.default\:task5.exe,org.eclipse.launchbar.core.descriptorType.default\:task array 1.exe,org.eclipse.launchbar.core.descriptorType.default\:task array 2.exe,org.eclipse.launchbar.core.descriptorType.default\:task array 4.exe,org.eclipse.launchbar.core.descriptorType.default\:task array 5.exe,org.eclipse.launchbar.core.descriptorType.default\:task array 3.exe,org.eclipse.launchbar.core.descriptorType.default\:task string 1.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:task\ array\ 1.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:task\ array\ 1.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:task1-break.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:task1-break.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

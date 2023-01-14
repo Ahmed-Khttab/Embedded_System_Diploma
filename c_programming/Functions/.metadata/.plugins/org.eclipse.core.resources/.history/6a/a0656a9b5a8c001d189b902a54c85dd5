@@ -1,0 +1,48 @@
+/*
+ * main.c
+ *
+ *  Created on: Jan 4, 2023
+ *      Author: ahmed khttab
+ */
+
+
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+	char c[100];
+	char c2[100];
+	printf("enter the first number = ");
+	fflush(stdin);
+	fflush(stdout);
+	gets(c);
+
+	printf("enter the sentec = %s\n",c);
+	printf("enter the lengh sentec = %d\n",strlen(c));
+	int y;
+	y = strlen(c);
+	printf("the y = %d\n",y);
+
+
+	for(int x =0;x<strlen(c);x++)
+	{
+		if(y>=0)
+		{
+			y--;
+
+			c2[y]=c[x];
+
+		}
+
+	}
+	printf("enter the revers sentec = %s\n",c2);
+
+
+
+
+
+
+
+
+}

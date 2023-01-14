@@ -1,0 +1,22 @@
+/*
+ * main.c
+ *
+ *  Created on: Jan 4, 2023
+ *      Author: ahmed khttab
+ */
+
+
+#include <stdio.h>
+
+int main()
+{
+	char c;
+	printf("enter the first number = ");
+	fflush(stdin);
+	fflush(stdout);
+	scanf("%d",c);
+
+	printf("enter the sentec = %c",c);
+
+
+}

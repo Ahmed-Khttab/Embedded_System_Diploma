@@ -1,0 +1,8 @@
+16:22:49 **** Incremental Build of configuration Debug for project task12 ****
+Info: Internal Builder is used for build
+gcc -o task12.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file task12.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+16:22:49 Build Finished (took 305ms)
+
