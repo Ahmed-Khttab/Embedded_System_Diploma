@@ -1,0 +1,87 @@
+23:02:20 **** Incremental Build of configuration Debug for project sum numbers from 1 to 100(without loop) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "sum numbers from 1 to 100(without loop).exe" main.o 
+Info: Nothing to build for sum numbers from 1 to 100(without loop)
+23:11:46 **** Incremental Build of configuration Debug for project sum numbers from 1 to 100(without loop) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'sum':
+..\main.c:26:8: warning: 'sum1' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   sum1 = sum1 + sum(++num1);
+   ~~~~~^~~~~~~~~~~~~~~~~~~~
+gcc -o "sum numbers from 1 to 100(without loop).exe" main.o 
+23:12:20 **** Incremental Build of configuration Debug for project sum numbers from 1 to 100(without loop) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'sum':
+..\main.c:26:8: warning: 'sum1' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   sum1 = sum1 + sum(++num1);
+   ~~~~~^~~~~~~~~~~~~~~~~~~~
+gcc -o "sum numbers from 1 to 100(without loop).exe" main.o 
+23:13:07 **** Incremental Build of configuration Debug for project sum numbers from 1 to 100(without loop) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'sum':
+..\main.c:29:8: warning: 'sum1' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   sum1 = sum1 + sum(++num1);
+   ~~~~~^~~~~~~~~~~~~~~~~~~~
+gcc -o "sum numbers from 1 to 100(without loop).exe" main.o 
+23:14:24 **** Incremental Build of configuration Debug for project sum numbers from 1 to 100(without loop) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'sum':
+..\main.c:29:8: warning: 'sum1' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   sum1 = sum1 + sum(++num1);
+   ~~~~~^~~~~~~~~~~~~~~~~~~~
+gcc -o "sum numbers from 1 to 100(without loop).exe" main.o 
+23:15:17 **** Incremental Build of configuration Debug for project sum numbers from 1 to 100(without loop) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "sum numbers from 1 to 100(without loop).exe" main.o 
+23:38:43 **** Incremental Build of configuration Debug for project sum numbers from 1 to 100(without loop) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "sum numbers from 1 to 100(without loop).exe" main.o 
+Info: Nothing to build for sum numbers from 1 to 100(without loop)
+23:40:36 **** Incremental Build of configuration Debug for project take a number and sum all digits ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "take a number and sum all digits.exe" main.o 
+23:41:32 **** Incremental Build of configuration Debug for project revers digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "revers digits in number.exe" main.o 
+23:42:15 **** Incremental Build of configuration Debug for project revers digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "revers digits in number.exe" main.o 
+23:43:28 **** Incremental Build of configuration Debug for project revers digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "revers digits in number.exe" main.o 
+23:47:28 **** Incremental Build of configuration Debug for project revers digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "revers digits in number.exe" main.o 
+Info: Nothing to build for calculate it's square root
+Info: Nothing to build for print all prime numbers between two numbers
+23:53:32 **** Incremental Build of configuration Debug for project print all prime numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "print all prime numbers between two numbers.exe" main.o 
+Info: Nothing to build for take a number and sum all digits
+Info: Nothing to build for return unique number in array
+00:02:49 **** Incremental Build of configuration Debug for project return unique number in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "return unique number in array.exe" main.o 
+00:05:07 **** Incremental Build of configuration Debug for project sum numbers from 1 to 100(without loop) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "sum numbers from 1 to 100(without loop).exe" main.o 
+Info: Nothing to build for take an array and revers its elements
+00:08:39 **** Incremental Build of configuration Debug for project reverse words in string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "reverse words in string.exe" main.o 

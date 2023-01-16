@@ -1,0 +1,57 @@
+/*
+ * main.c
+ *
+ *  Created on: Jan 16, 2023
+ *      Author: ahmed khttab
+ */
+
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+	char sen[100];
+	char list[100];
+	printf("Enter the sentence = ");
+	fflush(stdin);
+	fflush(stdout);
+	gets(sen);
+
+
+	int y;
+	y = strlen(sen);
+	int i ;
+	i = strlen(sen) +1;
+	list[i]=sen[i];
+	int x;
+	while(x >=0)
+	{
+		list[y]=sen[x];
+		x--;
+		y--;
+
+	}
+
+	int z;
+	z = strlen(sen) - y;
+	x=0;
+	while(z <=strlen(sen))
+	{
+		list[x]=sen[z];
+		x++;
+		z++;
+	}
+	printf(" the sentence %s\n",sen);
+	printf("the revers sentence =");
+	for(x=0;x<=strlen(sen);x++)
+	{
+
+		printf("%c",list[x]);
+	}
+
+
+
+
+
+
+}

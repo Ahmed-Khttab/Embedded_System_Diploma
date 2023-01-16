@@ -1,0 +1,22 @@
+/*
+ * main.c
+ *
+ *  Created on: Jan 15, 2023
+ *      Author: ahmed khttab
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	int num1,num2;
+	printf("Enter the first number = ");
+	fflush(stdin);
+	fflush(stdout);
+	scanf("%d",&num1);
+
+	printf("Enter the second number = ");
+	fflush(stdin);
+	fflush(stdout);
+	scanf("%d",&num2);
+}

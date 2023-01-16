@@ -1,0 +1,7 @@
+00:05:07 **** Incremental Build of configuration Debug for project sum numbers from 1 to 100(without loop) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "sum numbers from 1 to 100(without loop).exe" main.o 
+
+00:05:07 Build Finished (took 667ms)
+

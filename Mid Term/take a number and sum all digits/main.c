@@ -1,0 +1,31 @@
+/*
+ * main.c
+ *
+ *  Created on: Jan 15, 2023
+ *      Author: ahmed khttab
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	int num;
+	int sum=0;
+	int x;
+	printf("Enter the number = ");
+	fflush(stdin);
+	fflush(stdout);
+	scanf("%d",&num);
+	//-----------------------------
+
+	while(num!=0)
+	{
+		x =num%10;
+		num = num/10;
+		sum = sum +x;
+
+	}
+
+	printf("the sum of digit = %d ",sum);
+
+}

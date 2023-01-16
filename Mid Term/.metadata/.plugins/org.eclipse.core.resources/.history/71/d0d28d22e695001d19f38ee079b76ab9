@@ -1,0 +1,33 @@
+/*
+ * main.c
+ *
+ *  Created on: Jan 16, 2023
+ *      Author: ahmed khttab
+ */
+
+
+#include <stdio.h>
+
+int sum();
+int main()
+{
+	int num1=0;
+	int i;
+	i =sum(num1);
+	printf("the sum 1 to 100 is = %d",i);
+
+
+}
+
+int sum(int num1)
+{
+	int num2;
+	static int sum1=0;
+	num2 =100;
+	if(num1<=num2)
+	{
+		sum1 = sum1 + sum(++num1);
+	}
+
+	return sum1;
+}
